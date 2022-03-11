@@ -1,0 +1,11 @@
+<div>
+  <h2> Name: <%=@todo.name%> </h2>
+  <p> Description: <%=@todo.description%> </p>
+  <p> Completed:
+  <% if @todo.completed %>
+    <%="Yes"%>
+  <% else %>
+    <%="No"%>
+  <% end %> 
+  </p>  
+</div>
