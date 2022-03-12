@@ -12,11 +12,11 @@ I have many things left to do, and as of now this project is incomplete!
 
 Goals include:
 
-[ ] Finish endpoints and basic CRUD layout.
-[ ] Learn how to style website with Ruby.
-[ ] Incorporate more advanced react with multiple components being rendered.
-[ ] Research more about the way Rails is sending down HTML/CSS/JS.
-[ ] Host this website once it is completely finished.
+- [ ] Finish endpoints and basic CRUD layout.
+- [ ] Learn how to style website with Ruby.
+- [ ] Incorporate more advanced react with multiple components being rendered.
+- [ ] Research more about the way Rails is sending down HTML/CSS/JS.
+- [ ] Host this website once it is completely finished.
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
