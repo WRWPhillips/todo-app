@@ -12,8 +12,11 @@ I have many things left to do, and as of now this project is incomplete!
 
 Goals include:
 
-- [ ] Finish endpoints and basic CRUD layout.
-- [ ] Learn how to style website with Ruby.
+- [x] Finish endpoints and basic CRUD layout.
+- [ ] Learn how to style website with Ruby. Perhaps use [bootstrap](https://www.digitalocean.com/community/tutorials/how-to-add-bootstrap-to-a-ruby-on-rails-application)
+- [ ] Create option to tick off todo as completed from index screen
+- [ ] Write essay explaining exactly how application is working
+- [ ] Work on accessibility and improve lighthouse score as much as possible
 - [ ] Incorporate more advanced react with multiple components being rendered.
 - [ ] Research more about the way Rails is sending down HTML/CSS/JS.
 - [ ] Host this website once it is completely finished.

@@ -8,4 +8,5 @@
     <%="No"%>
   <% end %> 
   </p>  
+  <%= link_to 'Remove', @todo, method: :delete, data: { confirm: 'Are you sure?'} %>
 </div>
