@@ -4,7 +4,7 @@ This is an initial attempt at a CRUD application made with rails, something
 I haven't worked with before. 
 
 I've mostly worked off of 
-[this](https://medium.com/@nancydo7/ruby-on-rails-crud-tutorial-89911710c7a) 
+[this](https://medium.com/@nancydo7/ruby-on-rails-crud-tutorial-899117710c7a) 
 medium article, although it's incomplete so I'm doing research on my own as
 well.
 
